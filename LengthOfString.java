@@ -23,3 +23,5 @@ public class LengthOfString {
 	}
 
 }
+
+//length of the string can be find in many ways. The above are the main three ways to find it.
